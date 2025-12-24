@@ -2,6 +2,10 @@
 
 A Python-based keylogger application with a modern GUI interface built using Tkinter. This project logs keyboard events, stores them in JSON format, and provides functionality to convert logs to readable text files.
 
+## Demo Video --> https://drive.google.com/file/d/13T-MxqjFM7_-FOMzUJPZ8OFN9CKLzw17/view?usp=drive_link
+
+## PPTX --> https://docs.google.com/presentation/d/1SpEHlm2ZyTEyQFc-JwTisq9qmosJPNBb/edit?usp=drive_link&ouid=112011770901139299951&rtpof=true&sd=true
+
 ## ✨ Features
 
 - 🖥️ **Modern GUI Interface** - Clean and intuitive Tkinter-based interface
