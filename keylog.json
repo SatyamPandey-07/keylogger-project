@@ -1,0 +1,204 @@
+{
+    "keystrokes": [
+        {
+            "event": "press",
+            "key": "Key.shift",
+            "timestamp": "2025-12-24 17:42:28.934034"
+        },
+        {
+            "event": "press",
+            "key": "Key.enter",
+            "timestamp": "2025-12-24 17:42:29.124845"
+        },
+        {
+            "event": "press",
+            "key": "|",
+            "timestamp": "2025-12-24 17:42:29.130881"
+        },
+        {
+            "event": "release",
+            "key": "|",
+            "timestamp": "2025-12-24 17:42:29.234861"
+        },
+        {
+            "event": "release",
+            "key": "Key.enter",
+            "timestamp": "2025-12-24 17:42:29.244050"
+        },
+        {
+            "event": "release",
+            "key": "Key.shift",
+            "timestamp": "2025-12-24 17:42:29.295000"
+        },
+        {
+            "event": "press",
+            "key": "l",
+            "timestamp": "2025-12-24 17:42:30.737641"
+        },
+        {
+            "event": "release",
+            "key": "l",
+            "timestamp": "2025-12-24 17:42:30.797718"
+        },
+        {
+            "event": "press",
+            "key": "Key.space",
+            "timestamp": "2025-12-24 17:42:30.968254"
+        },
+        {
+            "event": "release",
+            "key": "Key.space",
+            "timestamp": "2025-12-24 17:42:31.026718"
+        },
+        {
+            "event": "press",
+            "key": "l",
+            "timestamp": "2025-12-24 17:42:31.242743"
+        },
+        {
+            "event": "release",
+            "key": "l",
+            "timestamp": "2025-12-24 17:42:31.298929"
+        },
+        {
+            "event": "press",
+            "key": "a",
+            "timestamp": "2025-12-24 17:42:32.642702"
+        },
+        {
+            "event": "release",
+            "key": "a",
+            "timestamp": "2025-12-24 17:42:32.781342"
+        },
+        {
+            "event": "press",
+            "key": "w",
+            "timestamp": "2025-12-24 17:42:32.920414"
+        },
+        {
+            "event": "release",
+            "key": "w",
+            "timestamp": "2025-12-24 17:42:33.030892"
+        },
+        {
+            "event": "press",
+            "key": "l",
+            "timestamp": "2025-12-24 17:42:33.410965"
+        },
+        {
+            "event": "release",
+            "key": "l",
+            "timestamp": "2025-12-24 17:42:33.477750"
+        },
+        {
+            "event": "press",
+            "key": "i",
+            "timestamp": "2025-12-24 17:42:33.866200"
+        },
+        {
+            "event": "release",
+            "key": "i",
+            "timestamp": "2025-12-24 17:42:33.917874"
+        },
+        {
+            "event": "press",
+            "key": "e",
+            "timestamp": "2025-12-24 17:42:34.564314"
+        },
+        {
+            "event": "release",
+            "key": "e",
+            "timestamp": "2025-12-24 17:42:34.636689"
+        },
+        {
+            "event": "press",
+            "key": "t",
+            "timestamp": "2025-12-24 17:42:34.810523"
+        },
+        {
+            "event": "release",
+            "key": "t",
+            "timestamp": "2025-12-24 17:42:34.876816"
+        },
+        {
+            "event": "press",
+            "key": "Key.space",
+            "timestamp": "2025-12-24 17:42:35.096119"
+        },
+        {
+            "event": "release",
+            "key": "Key.space",
+            "timestamp": "2025-12-24 17:42:35.155894"
+        },
+        {
+            "event": "press",
+            "key": "i",
+            "timestamp": "2025-12-24 17:42:36.250501"
+        },
+        {
+            "event": "release",
+            "key": "i",
+            "timestamp": "2025-12-24 17:42:36.300325"
+        },
+        {
+            "event": "press",
+            "key": "s",
+            "timestamp": "2025-12-24 17:42:36.635877"
+        },
+        {
+            "event": "release",
+            "key": "s",
+            "timestamp": "2025-12-24 17:42:36.775677"
+        },
+        {
+            "event": "press",
+            "key": "Key.space",
+            "timestamp": "2025-12-24 17:42:36.832685"
+        },
+        {
+            "event": "release",
+            "key": "Key.space",
+            "timestamp": "2025-12-24 17:42:36.882793"
+        },
+        {
+            "event": "press",
+            "key": "g",
+            "timestamp": "2025-12-24 17:42:37.204403"
+        },
+        {
+            "event": "release",
+            "key": "g",
+            "timestamp": "2025-12-24 17:42:37.262723"
+        },
+        {
+            "event": "press",
+            "key": "o",
+            "timestamp": "2025-12-24 17:42:37.484936"
+        },
+        {
+            "event": "release",
+            "key": "o",
+            "timestamp": "2025-12-24 17:42:37.540817"
+        },
+        {
+            "event": "press",
+            "key": "a",
+            "timestamp": "2025-12-24 17:42:37.598608"
+        },
+        {
+            "event": "release",
+            "key": "a",
+            "timestamp": "2025-12-24 17:42:37.762919"
+        },
+        {
+            "event": "press",
+            "key": "t",
+            "timestamp": "2025-12-24 17:42:37.946024"
+        },
+        {
+            "event": "release",
+            "key": "t",
+            "timestamp": "2025-12-24 17:42:38.015968"
+        }
+    ]
+}
